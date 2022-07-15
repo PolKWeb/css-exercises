@@ -1,0 +1,24 @@
+/* Using types */
+/* div > p {
+    background-color: #ffff00;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+
+/* Using classes */
+/* .container > .text {
+    background-color: #ffff00;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* Using class and type */
+.container > p {
+    background-color: #ffff00;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
