@@ -1,0 +1,16 @@
+.normal,
+.desperate {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.normal {
+    background-color: black;
+    color: white;
+}
+
+.desperate {
+    background-color: yellow;
+    color: black;
+}
+
